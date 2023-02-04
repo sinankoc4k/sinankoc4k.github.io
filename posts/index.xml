@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://sinankoc4k.github.io/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Sinan Koçak</title>
+    <link>https://sinankocak.netlify.app/posts/</link>
+    <description>Recent content in Posts on Sinan Koçak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2023 20:27:53 +0300</lastBuildDate><atom:link href="https://sinankoc4k.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Feb 2023 20:27:53 +0300</lastBuildDate><atom:link href="https://sinankocak.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Besinci</title>
-      <link>https://sinankoc4k.github.io/posts/besinci/</link>
+      <link>https://sinankocak.netlify.app/posts/besinci/</link>
       <pubDate>Sat, 04 Feb 2023 20:27:53 +0300</pubDate>
       
-      <guid>https://sinankoc4k.github.io/posts/besinci/</guid>
+      <guid>https://sinankocak.netlify.app/posts/besinci/</guid>
       <description>Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.</description>
     </item>
     
     <item>
       <title>Dorduncu</title>
-      <link>https://sinankoc4k.github.io/posts/dorduncu/</link>
+      <link>https://sinankocak.netlify.app/posts/dorduncu/</link>
       <pubDate>Sat, 04 Feb 2023 20:27:42 +0300</pubDate>
       
-      <guid>https://sinankoc4k.github.io/posts/dorduncu/</guid>
+      <guid>https://sinankocak.netlify.app/posts/dorduncu/</guid>
       <description>Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.</description>
     </item>
     
     <item>
       <title>Ucuncu</title>
-      <link>https://sinankoc4k.github.io/posts/ucuncu/</link>
+      <link>https://sinankocak.netlify.app/posts/ucuncu/</link>
       <pubDate>Sat, 04 Feb 2023 20:27:31 +0300</pubDate>
       
-      <guid>https://sinankoc4k.github.io/posts/ucuncu/</guid>
+      <guid>https://sinankocak.netlify.app/posts/ucuncu/</guid>
       <description>Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.</description>
     </item>
     
     <item>
       <title>Ikinci</title>
-      <link>https://sinankoc4k.github.io/posts/ikinci/</link>
+      <link>https://sinankocak.netlify.app/posts/ikinci/</link>
       <pubDate>Sat, 04 Feb 2023 20:27:18 +0300</pubDate>
       
-      <guid>https://sinankoc4k.github.io/posts/ikinci/</guid>
+      <guid>https://sinankocak.netlify.app/posts/ikinci/</guid>
       <description>Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.</description>
     </item>
     
     <item>
       <title>Ilk Post</title>
-      <link>https://sinankoc4k.github.io/posts/ilk-post/</link>
+      <link>https://sinankocak.netlify.app/posts/ilk-post/</link>
       <pubDate>Sat, 04 Feb 2023 20:10:32 +0300</pubDate>
       
-      <guid>https://sinankoc4k.github.io/posts/ilk-post/</guid>
+      <guid>https://sinankocak.netlify.app/posts/ilk-post/</guid>
       <description>Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.</description>
     </item>
     
